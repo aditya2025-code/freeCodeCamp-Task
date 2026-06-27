@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29404100/README.md)
 # freeCodeCamp-Task
 
 A collection of HTML practice exercises and daily coding tasks completed as part of learning web development through [freeCodeCamp](https://www.freecodecamp.org/).
