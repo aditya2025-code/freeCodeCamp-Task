@@ -4,23 +4,27 @@ A collection of HTML practice exercises and daily coding tasks completed as part
 
 ## 📌 About
 
-This repository is a personal learning log used to track progress on HTML fundamentals while working through freeCodeCamp's curriculum. Each task or exercise is added here as it's completed, making it easy to look back and see how things have progressed over time.
+This repository is a personal learning log used to track progress on HTML, CSS fundamentals while working through freeCodeCamp's curriculum. Each task or exercise is added here as it's completed, making it easy to look back and see how things have progressed over time.
 
 ## 📁 Repository Structure
 
 ```
 Web_Dev-Task/
-├── Web Dev-Task/             # Day-by-day practice exercises
-└── Web Dev-Solution/
-    └── HTML/                # HTML challenge solutions
+|── Web Dev-Solution/
+|    |── HTML/                # HTML challenge solutions(completed)
+|    └── CSS/                 # CSS challenge solutions
+└── Web Dev-Task/            
+     |── HTML-task/           # HTML practice exercises(completed)  
+     └── CSS-task/            # Day-by-day CSS practice exercises
 ```
 
-- **Daily-Task** — Smaller, day-to-day coding exercises used to reinforce concepts as they're learned.
-- **Web Dev-TASK/HTML** — Solutions and practice files for HTML-focused challenges from the freeCodeCamp curriculum.
+- **Web Dev-Solution** — Solutions and practice files for HTML,CSS-focused challenges from the freeCodeCamp curriculum.
+- **Web Dev-Task** — Smaller, day-to-day coding exercises used to reinforce concepts as they're learned.
 
 ## 🛠️ Tech Stack
 
-- **HTML** — currently the only language used in this repository.
+- **HTML** — Completed.
+- **CSS** — currently the language used in this repository.
 
 ## 🚀 Getting Started
 
