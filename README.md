@@ -10,8 +10,8 @@ This repository is a personal learning log used to track progress on HTML fundam
 
 ```
 Web_Dev-Task/
-├── Daily-Task/             # Day-by-day practice exercises
-└── Web Dev-TASK/
+├── Web Dev-Task/             # Day-by-day practice exercises
+└── Web Dev-Solution/
     └── HTML/                # HTML challenge solutions
 ```
 

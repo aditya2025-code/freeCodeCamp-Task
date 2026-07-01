@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>Checkout</h1>
+    <section>
+        <h2>Your Cart</h2>
+        <img src="https://www.urbanmonkey.com/cdn/shop/files/avenger_blue_silver_01-991074.jpg?v=1733829334&width=800"
+            alt="Cool Glasses" height="300">
+        <p>Edith Glasses</p>
+        <p>$19.99</p>
+    </section>
+    <section>
+        <h2>Payment Information</h2>
+        <form action="">
+            <label for="card-name">
+                Cardholder Name <span aria aria-hidden="true">*</span> <input type="text" id="card-name"name="card-name" required>
+            </label><br><br>
+            <label for="card-number">
+                Card Number <span aria aria-hidden="true">*</span> <input type="text" id="card-number"name="card-number" required aria-describedby="card-number-help">
+            </label>
+            <p id="card-number-help">Please enter your 16-digit card number without spaces or dashes.</p>
+            <label for="ex-date">
+                Expiry Date <span aria aria-hidden="true">*</span> <input type="text" id="ex-date" name="ex-date" required>
+            </label><br><br>
+            <label for="cvv">
+                CVV <span aria aria-hidden="true">*</span> <input type="text" id="cvv" name="cvv" required>
+            </label><br><br>
+            <button type="submit">Place Order</button>
+        </form>
+    </section>
+</body>
+
+</html>
